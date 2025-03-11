@@ -1,0 +1,8 @@
+{
+  "short_name": "Tolerance Stack Calc",
+  "name": "Tolerance Stack Calculator Tool",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+} 
